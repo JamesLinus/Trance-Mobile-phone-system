@@ -1,0 +1,49 @@
+Flash storage:
+
+iNAND 7132 storage solution.
+(http://www.sandisk.cn/products/embedded/iNAND/)
+
+//Delivering innovative iNAND Accelerator Architecture featuring SmartSLC technology, the iNAND 7132 storage solution is SanDisk’s most advanced embedded flash drive for high-capacity smartphones, tablets and computing devices.
+
+Uniquely designed for use in flagship mobile devices, the iNAND 7132 storage solution uses application-level architecture to ensure rich experiences with exceptional performance, capacity and reliability.Enhanced by the accelerator feature of its application-optimized performance capabilities, it elevates memory performance throughout the lifetime of a device, and allows for more responsive gaming and high-speed downloads.
+
+Innovatively designed to meet demanding usage needs across all Android™, Chrome and Windows® mobile operating systems, SanDisk’s iNAND 7132 is a robust and high-performing storage solution with trusted reliability and endurance.
+
+Features SmartSLC technology to enable the next generation of mobile applications
+Facilitates faster wireless connectivity (supports 802.11ac 2x2 rate, 802.11ad) and faster downloads
+Allows more burst shots in a given time period**
+Supports up to 3 frames-per-second (fps) of RAW image format**
+Enables 4K (Ultra HD) video capture and playback.
+
+采用 e.MMC 5.0 HS400 规格
+Available capacities: 16GB, 32GB, and 64GB**
+接口：e.MMC 5.0+ HS400
+NAND Flash technology:1Ynm X3
+Flash Management:Embedded firmware
+NAND 闪存解决方案 – 1 尧米
+闪存管理 – 嵌入式固件
+Voltage range:
+Core voltage (VCC):2.7-3.6 V
+Host voltage (VCCQ):1.7-1.95 V
+工作温度：-25°C to 85°C
+存储温度：-40°C to 85°C
+包装
+
+11.5mm x 13mm x 0.8mm (16GB)
+11.5mm x 13mm x 0.8mm (32GB)
+11.5mm x 13mm x 1.0mm (64GB)
+Performance**
+
+Seq. Read (up to) 280 MB/s
+iNAND Accelerator supported High Performance Write(up to) 125 MB/s
+
+Tools:
+
+iNAND Accelerator Architecture featuring SmartSLC technology
+Best-in-class e.MMC storage facilitates a seamless user experience
+Supports up to 3 frames per second of RAW**, which can improve low-light imaging
+Enables the next generation of wireless connectivity
+Expands the possibilities of image creativity and post processing
+Facilitates faster downloads and improved imaging capabilities
+1Ynm technology means greater capacity at a smaller size
+
