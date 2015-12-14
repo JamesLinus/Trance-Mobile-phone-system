@@ -5,6 +5,7 @@ This project is a open-source embedded operating system for mobile devices. it's
 
 [![Trance Mobile Phone System](Logo image)](Web download Address)   //Logo image
 
+![Screen](./view.jpg)
 Please see the [issues](https://github.com/github/android/issues) section to
 report any bugs or feature requests and to see the list of known issues.
 
